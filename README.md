@@ -1,2 +1,6 @@
 # Zombie_Botnet
 GUI Executable Botnet Panel and Payload creator
+
+_________________________________________________
+Download and complete the installation for use.
+_________________________________________________
